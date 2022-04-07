@@ -115,7 +115,7 @@
         "Enter 5-20 alphanumeric characters": "Введите 5-20 буквенно-цифровых символов.",
         "Confirm password": "Подтвердить Пароль",
         "Confirm your password": "Подтвердите ваш пароль",
-        "Seed phrase": "Seed фраза",
+        "Seed phrase": "Мнемоническая фраза",
 
         "{{word}} is an invalid word": "{{palabra}} неверное слово",
         "What if I lost my seed phrase?": "Что, если я потеряю свою семенную фразу?",
